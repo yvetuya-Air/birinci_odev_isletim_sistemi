@@ -1,0 +1,11 @@
+Process_ID,Arrival_Time,CPU_Burst_Time,Priority
+P001,0,10,low
+P002,2,2,high
+P005,8,5,normal
+P006,10,6,low
+P007,12,7,high
+P008,14,8,normal
+P009,16,9,low
+P010,18,10,high
+P011,20,11,normal
+P012,22,12,low
